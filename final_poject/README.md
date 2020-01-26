@@ -4,4 +4,5 @@ Based on game records, we are going to analyze the associations between observat
 * What attributes are more relevant to homerun hittings? 
 * What kind of attribute will affect game results most violently? 
 * Given a current situation, what’s the most likely happen event based on the long time series statistics?
+
 Will be anserwered by data mining skills based on data from MLB 2015~2018
